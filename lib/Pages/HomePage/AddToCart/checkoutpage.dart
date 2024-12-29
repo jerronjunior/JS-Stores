@@ -74,7 +74,7 @@ class _CheckoutPageState extends State<CheckoutPage> {
             TextFormField(
           controller: _phoneController,
           decoration: const InputDecoration(
-            labelText: 'Phone Number',
+            labelText: 'Phone ',
             border: OutlineInputBorder(),
           ),
           keyboardType: TextInputType.phone,
